@@ -1,6 +1,6 @@
 # geekyants_logo
 
-A new Flutter project.
+Created animated running words using FLAME
 
 ## Getting Started
 
